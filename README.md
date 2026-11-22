@@ -1,4 +1,6 @@
 # Multi-Document RAG Pipeline | FastAPI, LangChain & Qdrant
 
 A **Multi-Document Retrieval-Augmented Generation (RAG) System** built with **FastAPI, LangChain, Google Gemini Embeddings, Groq, and Qdrant Cloud**. It enables users to upload multiple PDF files, automatically extract and split document content into overlapping chunks, generate vector embeddings, and store them in separate Qdrant collections. The system uses semantic search to retrieve relevant document context, laying the foundation for accurate, context-aware LLM responses. Designed with a modular architecture for efficient document ingestion, scalable vector storage, and intelligent document-based question answering.
+
+
 <img width="1120" height="522" alt="image" src="https://github.com/user-attachments/assets/d052382a-2c89-4556-b960-981f2b61c5e1" />
